@@ -1,0 +1,70 @@
+h1{
+    color:goldenrod
+}
+
+p{
+    color: white;
+}
+
+#img-el{
+    border-radius: 9px;
+    width: 50%;
+    display: inline-block;
+}
+
+button{
+    background-color: rgb(5, 75, 5);
+    border-radius: 5px;
+    width: 95px;
+    color: goldenrod;
+    padding: 9px;
+}
+
+button:hover{
+    cursor: pointer;
+    border-color: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button:active{
+    background-color: goldenrod;
+    color: rgb(5, 75, 5);
+}
+
+body {
+    background-color: rgba(167, 10, 10, 0.897);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size:30px;
+    max-height: 100vh;
+    margin-bottom: 20px;
+}
+h4{
+    color: white !important;
+    font-size: 19px;
+}
+
+a{
+    color: goldenrod;
+}
+
+a:hover{
+    text-decoration: underline;;
+}
+
+footer{
+    margin-top: 20px;
+    font-size: 17px;
+    
+} 
+
+@media screen {
+    img{
+        max-width: 80%;
+    }
+
+    body{
+        fit-content: flex;
+    }
+    
+}
