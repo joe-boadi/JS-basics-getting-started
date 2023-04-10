@@ -5,6 +5,8 @@ The most popular language with vast community. Join the train
 // your first ever line. 
 console.log(""Hi there");
 ```
+You can take this up the notch by your *consistency* and *utmost dedication* <br>
+The World Awaits Your Brilliance & Contribution to Problem-solving
 ## Resources
 Getting Started visit [W3Schools](https://www.w3schools.com/js/) <br>
 I encourage to also check out [MDN docs on js](https://developer.mozilla.org/en-US/docs/Web/JavaScript). <br>
