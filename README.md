@@ -1,7 +1,7 @@
 # JavaScript-basics
 The most popular language with vast community. Join the train
 > Brief and concise [history on JS](https://www.w3schools.com/js/js_history.asp#:~:text=JavaScript%20was%20invented%20by%20Brendan,Mozilla's%20latest%20version%20was%201.8.)<br>
-```
+```js
 // your first ever line. 
 console.log(""Hi there");
 ```
