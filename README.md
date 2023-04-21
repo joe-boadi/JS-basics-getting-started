@@ -7,6 +7,9 @@ console.log(""Hi there");
 ```
 You can take this up the notch by your *consistency* and *utmost dedication* <br>
 The World Awaits Your Brilliance & Contribution to Problem-solving
+## In Scope
+In this repo, hands-on practical approach is tailored to meet the demands from the basics to intermediate with JS. 
+Basically all topics are treated with code examples, with mini projects to help apply in real-life. 
 ## Resources
 Getting Started visit [W3Schools](https://www.w3schools.com/js/) <br>
 I encourage to also check out [MDN docs on js](https://developer.mozilla.org/en-US/docs/Web/JavaScript). <br>
