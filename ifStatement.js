@@ -13,6 +13,5 @@ if (gender == 'M') {
     console.log('Male');
 } else if (gender == 'F' || gender == 'FEMALE') {
     console.log('Female');
-} else {
-    console.log('Unkown');
 }
+console.log('Unkown');
