@@ -5,7 +5,7 @@ The most popular language with vast community. Join the train
 
 ```js
 // your first ever line. 
-console.log(""Hi there");
+console.log("Hi there");
 ```
 
 You can take this up the notch by your *consistency* and *utmost dedication* <br>
